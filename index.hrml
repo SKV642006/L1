@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shadow (Cid Kagenou) — The Eminence in Shadow</title>
+    <meta name="description" content="Shadow (Cid Kagenou) is the mastermind behind Shadow Garden, waging a hidden war against the Cult of Diablos. Bio, abilities, allies, and the legend of 'I Am Atomic.'">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <nav>
+                <a href="index.html" class="logo">SHADOW<span>GARDEN</span></a>
+                <ul class="nav-links">
+                    <li><a href="index.html" class="active">Home</a></li>
+                    <li><a href="abilities.html">Abilities</a></li>
+                    <li><a href="allies.html">Allies</a></li>
+                    <li><a href="timeline.html">Timeline</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1>SHADOW (CID KAGENOU)</h1>
+                <p>The mastermind behind Shadow Garden, waging a hidden war against the Cult of Diablos. Founder, leader, and the ultimate puppeteer - the Eminence in Shadow.</p>
+                <div class="cta-buttons">
+                    <a href="abilities.html" class="btn btn-primary">View Abilities</a>
+                    <a href="allies.html" class="btn btn-secondary">Meet The Shadows</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Facts Section -->
+    <section id="facts">
+        <div class="container">
+            <div class="section-title">
+                <h2>KEY FACTS</h2>
+            </div>
+            <div class="facts-grid">
+                <div class="fact-card">
+                    <h3>Name</h3>
+                    <p>Shadow (Real name: Cid Kagenou)</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Occupation</h3>
+                    <p>Founder & leader of Shadow Garden; vigilante anti-hero</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Affiliation</h3>
+                    <p>Shadow Garden (The Seven Shadows)</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Primary Foes</h3>
+                    <p>Cult of Diablos (a clandestine organization)</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Signature Move</h3>
+                    <p>"I Am Atomic" (cataclysmic magic slash)</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Personas</h3>
+                    <p>"Mob" student (Cid), Eminence in Shadow (Shadow)</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Appearance & Personality Section -->
+    <section id="appearance">
+        <div class="container">
+            <div class="section-title">
+                <h2>APPEARANCE & PERSONALITY</h2>
+            </div>
+            <div class="facts-grid">
+                <div class="fact-card">
+                    <h3>Appearance</h3>
+                    <p>A tall, lean swordsman in a black slime-suit cloak with an obsidian blade, violet magic aura, and minimalist, silent presence.</p>
+                </div>
+                <div class="fact-card">
+                    <h3>Personality</h3>
+                    <p>Method actor of subtlety: Loves orchestrating events from the background to look "accidentally cool." Deadpan humor: Purposely underplays his strength to sell the mob persona. Unflappable: Treats world-ending fights like theater, keeping the spotlight elsewhere.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-logo">SHADOW<span>GARDEN</span></div>
+                <ul class="footer-links">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="abilities.html">Abilities</a></li>
+                    <li><a href="allies.html">Allies</a></li>
+                    <li><a href="timeline.html">Timeline</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="copyright">
+                <p>&copy; 2023 Shadow Garden. All operations classified. "I Am Atomic."</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
